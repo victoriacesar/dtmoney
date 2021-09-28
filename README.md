@@ -13,19 +13,15 @@
 <p>This project is from Rocketseat's Ignite Bootcamp. I'm currently learning a lot about ReactJS through this bootcamp.<p>
 <p>It's a site where you can describe your financial entries and withdrawals so that you can organize your day.</p>
 
+<img src="./src/assets/site.png"></img>
+
 ### Technologies
 
 The following technologies were used in this project:
 
 ReactJS, styled-components, Typescript and MirageJS.
 
-### Clone
-
-<p>To clone locally the project in development mode you must:</p>
-
-<p>git clone https://github.com/victoriacesar/dtmoney.git</p>
-<p>Install the project's dependencies:</p> <code>yarn install</code>
-<p>After that you can run:</p> <code>yarn start</code>
+This project helped me consolidate themes like context, props and hooks.
 
 ### Author
 
