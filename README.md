@@ -1,5 +1,5 @@
 <h1 align="center"><em>DTMONEY</em> - Controll your finances</h1>
-<p align="center">It's a finance controller.</p>
+<p align="center">This app helps you to have an overview about your finances.</p>
 
 <p align="left">
  <a href="#description">Description</a> •
@@ -24,10 +24,8 @@ ReactJS, styled-components, Typescript and MirageJS.
 <p>To clone locally the project in development mode you must:</p>
 
 <p>git clone https://github.com/victoriacesar/dtmoney.git</p>
-<p>Install the project's dependencies:</p>
-<code>yarn install</code>
-<p>After that you can run:</p>
-<code>yarn start</code>
+<p>Install the project's dependencies:</p> <code>yarn install</code>
+<p>After that you can run:</p> <code>yarn start</code>
 
 ### Author
 
